@@ -100,7 +100,7 @@
                         <div class="icon">
                             <img src="assets/images/icon/sharing.png" alt="Icon_not_found" />
                         </div>
-                        <h3 class="title">What We Offer</h3>
+                        <h3 class="title" style="color: #CCE00E;">What We Offer</h3>
                         <span class="hr-secodary"></span>
                     </div>
                 </div>
@@ -117,12 +117,12 @@
                             <img src="assets/images/icon/marketing.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Marketing Automation</h4>
+                            <h4 class="title" style="color: #CCE00E;">Procurement Services</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the ipsum has been the
-                                industry standard ever printer specimen book.
+                            We help businesses and organizations find and purchase the products and services 
+                            they need, ensuring that they get the best value for their money.
                             </p>
-                            <a href="#" class="btn btn-outline-danger">Details +</a>
+                            <a href="services" class="btn btn-outline-danger">Details +</a>
                         </div>
                     </div>
                 </div>
@@ -138,12 +138,12 @@
                             <img src="assets/images/icon/analytics.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">SEO Consultancy</h4>
+                            <h4 class="title" style="color: #CCE00E;">Logistics Management</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the ipsum has been the
-                                industry standard ever printer specimen book.
+                            We offer efficient and reliable logistics management 
+                            services to ensure that your goods are transported safely and on time.
                             </p>
-                            <a href="#" class="btn btn-outline-warning">Details +</a>
+                            <a href="services" class="btn btn-outline-warning">Details +</a>
                         </div>
                     </div>
                 </div>
@@ -159,12 +159,12 @@
                             <img src="assets/images/icon/connect.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Pay Per Click Advertising</h4>
+                            <h4 class="title" style="color: #CCE00E;">Training and Development</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the ipsum has been the
-                                industry standard ever printer specimen book.
+                            Our training and development services help organizations to build the skills and competencies of 
+                            their employees, resulting in increased productivity and performance.
                             </p>
-                            <a href="#" class="btn btn-outline-primary">Details +</a>
+                            <a href="services" class="btn btn-outline-primary">Details +</a>
                         </div>
                     </div>
                 </div>
@@ -180,12 +180,12 @@
                             <img src="assets/images/icon/document.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Marketing Automation</h4>
+                            <h4 class="title" style="color: #CCE00E;">Project Management</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the ipsum has been the
-                                industry standard ever printer specimen book.
+                            Our project management services provide end-to-end solutions, from planning and 
+                            execution to monitoring and evaluation, to help you achieve your goals.
                             </p>
-                            <a href="#" class="btn btn-outline-secondary">Details +</a>
+                            <a href="services" class="btn btn-outline-secondary">Details +</a>
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,7 @@
                     <div class="icon">
                         <img src="assets/images/working/3.png" alt="images_not_found" />
                     </div>
-                    <h4 class="title">SEO Research</h4>
+                    <h4 class="title">Research</h4>
                 </div>
                 <!-- working-process-list end -->
                 <!-- working-process-list start -->
@@ -269,13 +269,11 @@
                 <div class="col-lg-6">
                     <div class="offset-about">
                         <div class="about-content section-title primary">
-                            <h5 class="sub-title">// Whay Choose Us?</h5>
-                            <h3 class="title">We Are Trusted Digital Marketing Company.</h3>
+                            <h5 class="sub-title">// Why Choose Us?</h5>
+                            <h3 class="title" style="color: #CCE00E;">We are committed</h3>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's
-                                standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type scrambled.
+                            To delivering timely and efficient services to our clients, 
+                                and we look forward to partnering with you.
                             </p>
                             <span class="hr-primary mt-4"></span>
                         </div>
@@ -285,10 +283,10 @@
                                     <img src="assets/images/icon/1.png" alt="images-not_found" />
                                 </div>
                                 <div class="about-object-content">
-                                    <h4 class="title">High Customer Retention Rate</h4>
+                                    <h4 class="title" style="color: #CCE00E;">Procurement Services</h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
+                                    We help businesses and organizations find and purchase the products and services they need, 
+                                    ensuring that they get the best value for their money.
                                     </p>
                                 </div>
                             </div>
@@ -298,23 +296,10 @@
                                     <img src="assets/images/icon/2.png" alt="images-not_found" />
                                 </div>
                                 <div class="about-object-content">
-                                    <h4 class="title">Dedicated Customer Support</h4>
+                                    <h4 class="title" style="color: #CCE00E;">Training and Development</h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- about-object-list end -->
-                            <div class="about-object-list">
-                                <div class="icon">
-                                    <img src="assets/images/icon/3.png" alt="images-not_found" />
-                                </div>
-                                <div class="about-object-content">
-                                    <h4 class="title">Professional Team Member</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
+                                    Our training and development services help organizations to build the skills and competencies of their employees, 
+                                    resulting in increased productivity and performance.
                                     </p>
                                 </div>
                             </div>
@@ -326,100 +311,6 @@
         </div>
     </section>
     <!-- about section end -->
-
-    <!-- case studies section start -->
-    <div class="case-studies-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12" data-aos="fade-up" data-aos-delay="100">
-                    <div class="section-title primary text-center pb-100">
-                        <div class="icon">
-                            <img src="assets/images/icon/webpack.png" alt="Icon_not_found" />
-                        </div>
-                        <h3 class="title">Some Case Studies</h3>
-                        <span class="hr-secodary"></span>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="case-carousel">
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper">
-                                <!-- single slide start -->
-                                <div class="swiper-slide" data-aos="fade-up" data-aos-delay="900">
-                                    <div class="case-card">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img class="case-shap case-shape1" src="assets/images/case/shape1.png" alt="images_not_found" />
-                                                <img class="case-shape case-shape2" src="assets/images/case/shape2.png" alt="images_not_found" />
-
-                                                <img class="case-image" src="assets/images/case/1.png" alt="images_not_found" /></a>
-                                        </div>
-                                        <div class="case-content">
-                                            <h3 class="title">
-                                                <a href="#">Marketing Automation</a>
-                                            </h3>
-                                            <p>Digital Strategy / Consulting</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single slide end -->
-                                <!-- single slide start -->
-                                <div class="swiper-slide" data-aos="fade-up" data-aos-delay="600">
-                                    <div class="case-card">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img class="case-shap case-shape1" src="assets/images/case/shape1.png" alt="images_not_found" />
-                                                <img class="case-shape case-shape2" src="assets/images/case/shape2.png" alt="images_not_found" />
-
-                                                <img class="case-image" src="assets/images/case/2.png" alt="images_not_found" /></a>
-                                        </div>
-                                        <div class="case-content">
-                                            <h3 class="title">
-                                                <a href="#">Marketing Automation</a>
-                                            </h3>
-                                            <p>Digital Strategy / Consulting</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single slide end -->
-                                <!-- single slide start -->
-                                <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
-                                    <div class="case-card">
-                                        <div class="thumb">
-                                            <a href="#">
-                                                <img class="case-shap case-shape1" src="assets/images/case/shape1.png" alt="images_not_found" />
-                                                <img class="case-shape case-shape2" src="assets/images/case/shape2.png" alt="images_not_found" />
-
-                                                <img class="case-image" src="assets/images/case/3.png" alt="images_not_found" /></a>
-                                        </div>
-                                        <div class="case-content">
-                                            <h3 class="title">
-                                                <a href="#">Marketing Automation</a>
-                                            </h3>
-                                            <p>Digital Strategy / Consulting</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single slide end -->
-                            </div>
-                            <!-- If we need navigation buttons -->
-                            <div class="container case-carousel-navigation">
-                                <div class="case-carousel swiper-button-prev">
-                                    <i class="icofont-rounded-double-left"></i>
-                                </div>
-                                <div class="case-carousel swiper-button-next">
-                                    <i class="icofont-rounded-double-right"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- case studies section end -->
 
     <!-- team section start -->
         <?php include_once('team.php'); ?>
@@ -440,7 +331,7 @@
                     <div class="faq-content">
                         <div class="section-title primary">
                             <h5 class="sub-title">// FAQ.</h5>
-                            <h3 class="title">Frequently Asked Question.</h3>
+                            <h3 class="title" style="color: #CCE00E;">Frequently Asked Question.</h3>
                             <span class="hr-primary mt-4"></span>
                         </div>
                         <div class="accordion" id="accordionExample">

@@ -74,10 +74,10 @@
                                     <img src="assets/images/icon/1.png" alt="images-not_found" />
                                 </div>
                                 <div class="about-object-content">
-                                    <h4 class="title">High Customer Retention Rate</h4>
+                                    <h4 class="title">Procurement Services</h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
+                                    We help businesses and organizations find and purchase the products and services they need, 
+                                    ensuring that they get the best value for their money.
                                     </p>
                                 </div>
                             </div>
@@ -87,28 +87,13 @@
                                     <img src="assets/images/icon/2.png" alt="images-not_found" />
                                 </div>
                                 <div class="about-object-content">
-                                    <h4 class="title">Dedicated Customer Support</h4>
+                                    <h4 class="title">Training and Development</h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
+                                    Our training and development services help organizations to build the skills and competencies of their employees, 
+                                    resulting in increased productivity and performance.
                                     </p>
                                 </div>
                             </div>
-                            <!-- about-object-list end -->
-                            <div class="about-object-list">
-                                <div class="icon">
-                                    <img src="assets/images/icon/3.png" alt="images-not_found" />
-                                </div>
-                                <div class="about-object-content">
-                                    <h4 class="title">Professional Team Member</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing
-                                        typesetting Ipsum has been the industry's standard dummy.
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- about-object-list end -->
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6">

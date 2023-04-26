@@ -5324,7 +5324,8 @@ textarea.form-control-lg {
   color: var(--bs-progress-bar-color);
   text-align: center;
   white-space: nowrap;
-  background-color: var(--bs-progress-bar-bg);
+  /* background-color: var(--bs-progress-bar-bg); */
+  background-color: greenyellow;
   -webkit-transition: var(--bs-progress-bar-transition);
   transition: var(--bs-progress-bar-transition);
 }
@@ -15552,7 +15553,9 @@ button:focus {
 /*   [ 10. working process CSS ] 
 ----------------------------------------*/
 .working-process-section {
-  background-image: url("../images/working/bg.png");
+  /* background-image: url("../images/working/bg.png"); */
+  background-image: linear-gradient(to right, lightgreen 0%, #CCE00E 100%); 
+  /* background-color: #CCE00E; */
   background-position: bottom center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15591,9 +15594,9 @@ button:focus {
 .working-process .working-process-list .icon {
   margin: 0 auto 5px;
   position: relative;
-  border: 5px solid #132580;
+  border: 5px solid yellow;
   border-radius: 50%;
-  background-color: #02126a;
+  background-color: transparent;
   width: 170px;
   height: 170px;
   display: -webkit-box;
@@ -16191,8 +16194,8 @@ button:focus {
 }
 .team-card .thumb .social-hover {
   position: absolute;
-  top: 30px;
-  left: 70px;
+  top: 10px;
+  left: 30px;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.5s;

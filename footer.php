@@ -112,28 +112,19 @@
                                         <ul class="footer-menu">
                                             <li>
                                                 <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Social
-                                                    Marketing</a>
+                                                    <i class="icofont-rounded-double-right"></i>Procurement</a>
                                             </li>
                                             <li>
                                                 <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>SEO
-                                                    Optimization</a>
+                                                    <i class="icofont-rounded-double-right"></i>Logistics Mgt</a>
                                             </li>
                                             <li>
                                                 <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Content
-                                                    Marketing</a>
+                                                    <i class="icofont-rounded-double-right"></i>Training and Devt</a>
                                             </li>
                                             <li>
                                                 <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Social
-                                                    Marketing</a>
-                                            </li>
-                                            <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Web
-                                                    Analytics</a>
+                                                    <i class="icofont-rounded-double-right"></i>Project Mgt</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -143,22 +134,17 @@
                                         <h4 class="title">Information</h4>
                                         <ul class="footer-menu">
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="about">
                                                     <i class="icofont-rounded-double-right"></i>Vision &
-                                                    Values</a>
+                                                    Mission</a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Winning
-                                                    Awards</a>
+                                                <a class="footer-link" href="services">
+                                                    <i class="icofont-rounded-double-right"></i>Services</a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Leadership</a>
-                                            </li>
-                                            <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>Sustainability</a>
+                                                <a class="footer-link" href="gallery">
+                                                    <i class="icofont-rounded-double-right"></i>Gallery</a>
                                             </li>
                                             <li>
                                                 <a class="footer-link" href="#">

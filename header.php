@@ -28,12 +28,12 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <!-- offcanvas-form-wrap start -->
-                <div class="offcanvas-form-wrap">
+                <!-- <div class="offcanvas-form-wrap">
                     <form action="#" class="offcanvas-form position-relative">
                         <input class="form-control" type="text" placeholder="Enter your search key ... " />
                         <button class="btn btn-warning">search</button>
                     </form>
-                </div>
+                </div> -->
                 <!-- offcanvas-form-wrap end -->
                 <!-- offcanvas-menu start -->
                 <nav id="offcanvas-menu" class="offcanvas-menu">
@@ -57,8 +57,6 @@
                     </ul>
                 </nav>
                 <!-- offcanvas-menu end -->
-
-                <p class="text-gradient mt-3">Let us grow your website traffic.</p>
             </div>
         </div>
     </div>

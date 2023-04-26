@@ -14,10 +14,10 @@
             </div>
 
             <div class="row mb-n7">
-                <div class="col-lg-4 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="300">
                     <div class="team-card">
                         <div class="thumb">
-                            <img src="assets/avatar.png" alt="images_not_found" width="70%"/>
+                            <img src="assets/images/team/1.jpeg" alt="images_not_found" width="70%" style="border-radius: 80%;"/>
                             <img class="social-hover" src="assets/images/team/team-hover.png" alt="images_not_found" />
                             <ul class="team-social">
                                 <li class="team-social-item">
@@ -33,14 +33,37 @@
                         </div>
                         <div class="content">
                             <h3 class="title">Mojisola Ajijola</h3>
-                            <p>Managing Director</p>
+                            <p>Lead Consultant</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="600">
+                <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="600">
                     <div class="team-card">
                         <div class="thumb">
-                            <img src="assets/avatar.png" alt="images_not_found" width="70%" />
+                            <img src="assets/images/team/2.jpeg" alt="images_not_found" width="80%" style="border-radius: 80%; height: 213px;"/>
+                            <img class="social-hover" src="assets/images/team/team-hover.png" alt="images_not_found" />
+                            <ul class="team-social">
+                                <li class="team-social-item">
+                                    <a class="team-social-link" href="#"><i class="icofont-facebook"></i></a>
+                                </li>
+                                <li class="team-social-item">
+                                    <a class="team-social-link" href="#"><i class="icofont-twitter"></i></a>
+                                </li>
+                                <li class="team-social-item">
+                                    <a class="team-social-link" href="#"><i class="icofont-google-plus"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="content">
+                            <h3 class="title">Oluwakayode Ijadare</h3>
+                            <p>Assistant Managing Director</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="600">
+                    <div class="team-card">
+                        <div class="thumb">
+                            <img src="assets/avatar.png" alt="images_not_found" width="70%"/>
                             <img class="social-hover" src="assets/images/team/team-hover.png" alt="images_not_found" />
                             <ul class="team-social">
                                 <li class="team-social-item">
@@ -60,7 +83,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="900">
+                <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="900">
                     <div class="team-card">
                         <div class="thumb">
                             <img src="assets/avatar.png" alt="images_not_found" width="70%"/>
@@ -79,7 +102,7 @@
                         </div>
                         <div class="content">
                             <h3 class="title">Ezekiel Adetoyi</h3>
-                            <p>Head, Operations</p>
+                            <p>Head Operations</p>
                         </div>
                     </div>
                 </div>
