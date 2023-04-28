@@ -17,7 +17,7 @@
                 <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="300">
                     <div class="team-card">
                         <div class="thumb">
-                            <img src="assets/images/team/1.jpeg" alt="images_not_found" width="70%" style="border-radius: 80%;"/>
+                            <img src="assets/images/team/3.jpeg" alt="images_not_found" width="84%" style="border-radius: 80%;"/>
                             <img class="social-hover" src="assets/images/team/team-hover.png" alt="images_not_found" />
                             <ul class="team-social">
                                 <li class="team-social-item">
@@ -63,7 +63,7 @@
                 <div class="col-lg-3 col-sm-6 mb-7" data-aos="fade-up" data-aos-delay="600">
                     <div class="team-card">
                         <div class="thumb">
-                            <img src="assets/avatar.png" alt="images_not_found" width="70%"/>
+                            <img src="assets/images/team/1.jpeg" alt="images_not_found" width="68%" style="border-radius: 80%;"/>
                             <img class="social-hover" src="assets/images/team/team-hover.png" alt="images_not_found" />
                             <ul class="team-social">
                                 <li class="team-social-item">
